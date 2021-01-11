@@ -1,0 +1,23 @@
+
+data = [
+	{
+		"id": 1,
+		"firstname": "carlo",
+		"lastname": "santos",
+		"imgUrl" : "./ilog.jpg"
+	},
+	{
+		"id": 2,
+		"firstname": "santos",
+		"lastname": "carlo",
+		"imgUrl": "./moonlight.jpg"
+		},
+
+		{
+			"id: 3",
+			"firstname": "fegee",
+			"lastname": "antonio",
+			"imgUrl": "./ilog.jpg"
+		},
+
+]
